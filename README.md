@@ -6,7 +6,10 @@
 
 ## 📗 Medium Articles Link:
 
-- [📝GitHub Actions-1: Creating a CI/CD pipeline for a Java application, and building and pushing it to Docker Hub using GitHub Actions - A Hands-On Guide.](https://cmakkaya.medium.com/github-actions-1-creating-ci-cd-pipeline-for-java-application-and-building-and-pushing-it-to-21aec5af9f9c?postPublishedType=repub) `happy reading.`
+- [📝GitHub Actions-1: Creating a CI/CD pipeline for a Java application, and building and pushing it to Docker Hub using GitHub Actions - A Hands-On Guide.](https://cmakkaya.medium.com/github-actions-1-creating-ci-cd-pipeline-for-java-application-and-building-and-pushing-it-to-21aec5af9f9c?postPublishedType=repub)
+
+
+- `happy reading.`
 
 
 
