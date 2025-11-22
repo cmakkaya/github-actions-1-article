@@ -1,4 +1,4 @@
-# github-actions-1-article
+# GitHub Actions Article
 ## GitHub Actions-1: Creating a CI/CD pipeline for a Java application, and building and pushing it to Docker Hub using GitHub Actions.
 
 <img width="1709" height="953" alt="image" src="https://github.com/user-attachments/assets/6952afb2-834d-4b30-9cd7-84b574d697bf" />
